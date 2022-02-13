@@ -3,7 +3,7 @@ package Preguntas;
 import Vista.Ingresos_vista;
 
 public class Categorias {
-
+  //se llaman las clases//
     private static Ingresos_vista in;
     private static Respuestas r;
     private static Respuestas2 r2;
